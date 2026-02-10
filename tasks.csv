@@ -1,0 +1,6 @@
+ID,Name,Priority,RequiredSkill,Duration,Deadline,Dependencies
+101,Setup DB,5,C++,3,10,
+102,Implement Sort,8,DSA,5,15,101
+103,Design UI,3,Frontend,4,12,101
+104,Design-UI,3,Backend,4,12,101
+105,Final Integration,10,DSA,6,20,102;103
