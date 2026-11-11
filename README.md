@@ -4,6 +4,7 @@ SMART-PLAN is a high-performance C++ project management and scheduling system bu
 The project demonstrates real-world applications of graphs, heaps, dynamic programming, hashing, and stacks in an optimized and structured way.
 
 **✨ Key Features**
+
 🔹 Graph-Based Dependency Management
 Models tasks as a Directed Acyclic Graph (DAG)
 Uses Topological Sorting to ensure correct task execution order
